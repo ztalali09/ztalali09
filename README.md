@@ -66,6 +66,8 @@ Passionate about building web applications, experimenting with new technologies,
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ztalali09/ztalali09/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
 
 ### ✍️ Random Dev Quote
