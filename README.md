@@ -57,18 +57,7 @@ Passionate about building web applications, experimenting with new technologies,
 ![](https://nirzak-streak-stats.vercel.app/?user=ztalali09&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ztalali09&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-## Contribution Graph:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ztalali09/ztalali09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ztalali09/ztalali09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ztalali09/ztalali09/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
----
 
 ### Always Remember
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
